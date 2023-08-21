@@ -38,13 +38,12 @@ We will try to cover the basics of the language on day 1. We will do it by solvi
 
 * What is a computer. How memory works as pairs of addresses and values.
 * Getting to know the language. Package concept. Basic "fmt" package.
-* Variables and types. Standard I/O
-* Conditionals.
+* Variables and types. Slices, arrays, maps. Standard I/O
+* Conditionals. If/else, dynamic switch.
 * Loops
-* CLI with "cobra" package (*)
 * Functions
-* Manipulating files. (*)
-* Manipulating strings. Getting to know the "strings" library
+* Manipulating files.
+* Manipulating strings.
 * Basic error handling in go. Difference between Panic and returning an error.
 * Abstract types (structs) and methods. Receiver concept. Pointers and references.
 
