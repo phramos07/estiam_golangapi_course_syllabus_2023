@@ -87,6 +87,15 @@ In order to follow this course, the student will need
 
 _For windows users, you might need to allow for virtualization in your BIOS in order for docker to work_
 
+### Course material
+
+We'll be doing mostly live-coding and solving exercises. Here are our references for the course:
+
+[1] Golang docs: https://go.dev/doc/
+[2] What is considered to be the Golang bible, The Go Programming Language - Alan A. A. Donovan, Brian W. Kernighan: [Download](http://www.cs.uniroma2.it/upload/2017/TSC/The%20Go%20Programming%20Language.pdf) (7mb)
+[3] [Echo framework](https://echo.labstack.com/) for the http client
+[4] [JWT-go](https://pkg.go.dev/github.com/golang-jwt/jwt/v4) for authorization middleware
+
 4. A Github account. The project will be delivered as a **pull request**. 
 
 > git basics: https://www.atlassian.com/git
