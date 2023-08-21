@@ -1,1 +1,92 @@
-# estiam_golangapi_
+## Golang API - Building a web backend in Golang (@ Estiam)
+
+Welcome to the Golang API course. 
+
+### Before we start
+
+Please answer this quick form so I can get to know you better. This will help us throughout the course.
+
+https://forms.gle/f2CMsQtpdvNAapTz9
+
+### Final Project and assessment
+
+The project will be the sole assessment for this course. It will cover all the topics we will learn throughout the course.
+
+It asks you to develop a web-backend in Golang. It is a simple CRUD, integrated with PostgreSQL.
+
+All detais on the final assessment should be found here:
+
+[LINK FINAL PROJECT REPO]
+
+### Course Syllabus
+
+This course will take 4 days. We understand that it is a short time to learn a new language plus some backend frameworks. We will focus on getting to know the basics of the language and some advanced concepts, as well as how to develop a simple but complete web backend in Golang.
+
+#### Day 1 (21/08/2023)
+
+We will try to cover the basics of the language on day 1. We will do it by solving some problems together.
+
+* What is a computer. How memory works as pairs of addresses and values.
+* Getting to know the language. Package concept. Basic "fmt" package.
+* Variables and types. Standard I/O
+* Conditionals.
+* Loops
+* CLI with "cobra" package (*)
+* Functions
+* Manipulating files. (*)
+* Manipulating strings. Getting to know the "strings" library
+* Basic error handling in go. Difference between Panic and returning an error.
+* Abstract types (structs) and methods. Receiver concept. Pointers and references.
+
+#### Day 2 (22/08/2023)
+
+On day 2, we will start tackling the final project. We will start by HTTP basics.
+
+* Interface oriented programming. 
+* Web-development. How the HTTP protocol works. RESTFul concept. Error handling in REST (status codes).
+* Implementing HTTP endpoints (CRUD)
+* Adding a database to our backend. PostgreSQL. Adding tables and ORM (*)
+
+#### Day 3 (23/08/2023)
+
+* Middlewares. Adding logging middleware and error middleware.
+* Adding a security layer to our backend. Login endpoint and auth middleware.
+
+#### Day 4 (24/08/2023)
+
+* Concurrency: goroutines and gochannels.
+* Final project development time.
+
+(*) Some of this topics may change due to priorization and time constraints.
+
+### What won't be taught here
+
+4 days is a very constrained time to cover some of the topics that are left out from this course. These are the topics that we won't be covering in live classes, but students are encouraged to implement these features on their final project assignment.
+
+* docker and docker-compose for local development. Best practices on deployment. CICD pipelines. Devops tools such as Grafana, Datadog, Rancher, terraform.
+* git
+* microservices. Splitting the backend into minor services. Splitting API from database writer service. Use of tools such as Kafka or RabbitMQ
+* GraphQL
+
+### What you actually need to follow the course
+
+In order to follow this course, the student will need
+
+1. Golang installed on version 1.19 or higher
+
+>Instructions: https://go.dev/doc/install
+
+2. A code-editor or a IDE. We recommend the use of VSCode (free), but GoLand (paid) is also available for a student subscription.
+
+> VSCode: https://code.visualstudio.com/download
+
+> GoLand: https://www.jetbrains.com/go/download/
+
+3. We might need docker installed for our DB to work
+
+> Docker: https://docs.docker.com/engine/install/
+
+_For windows users, you might need to allow for virtualization in your BIOS in order for docker to work_
+
+4. A Github account. The project will be delivered as a **pull request**.
+
