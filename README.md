@@ -53,7 +53,7 @@ We will try to cover the basics of the language on day 1. We will do it by solvi
 
 On day 2, we will start tackling the final project. We will start by HTTP basics.
 
-* Interface oriented programming. 
+* Interface oriented programming. Pointers and references.
 * Web-development. How the HTTP protocol works. RESTFul concept. Error handling in REST (status codes).
 * Implementing HTTP endpoints (CRUD)
 * Adding a database to our backend. PostgreSQL. Adding tables and ORM (*)
