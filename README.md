@@ -36,6 +36,8 @@ This course will take 4 days. We understand that it is a short time to learn a n
 
 We will try to cover the basics of the language on day 1. We will do it by solving some problems together.
 
+❗ **[All problems for day 1 are available in here]**(https://github.com/phramos07/estiam_golang_api_course_day1)
+
 * What is a computer. How memory works as pairs of addresses and values.
 * Getting to know the language. Package concept. Basic "fmt" package.
 * Variables and types. Slices, arrays, maps. Standard I/O
