@@ -18,6 +18,16 @@ All detais on the final assessment should be found here:
 
 [LINK FINAL PROJECT REPO WILL BE AVAILABLE AT END OF DAY 1]
 
+### The instructor
+
+I will be the instructor carrying out the course. My name is Pedro Ramos, I am a software engineer from Brazil. I hold a bachelor and a master's degrees in Computer Science. Although I am a generalist developer, I am focused on backend and low-level coding, and I have been working with golang in the past 4 years or so.
+
+Please reach me out if there are any doubts during the course, I'll be fully available for students.
+
+> Email: pedro.ramos@estiam.com
+
+> Linkedin: https://www.linkedin.com/in/phramos07/
+
 ### Course Syllabus
 
 This course will take 4 days. We understand that it is a short time to learn a new language plus some backend frameworks. We will focus on getting to know the basics of the language and some advanced concepts, as well as how to develop a simple but complete web backend in Golang.
@@ -99,3 +109,11 @@ We'll be doing mostly live-coding and solving exercises. Here are our references
 2. What is considered to be the Golang bible, The Go Programming Language - Alan A. A. Donovan, Brian W. Kernighan: [Download](http://www.cs.uniroma2.it/upload/2017/TSC/The%20Go%20Programming%20Language.pdf) (7mb)
 3. [Echo framework](https://echo.labstack.com/) for the http client
 4. [JWT-go](https://pkg.go.dev/github.com/golang-jwt/jwt/v4) for authorization middleware
+
+_Slide presentations and excalidraw presentations will be shared during the course here in this repository_
+
+### Final words
+
+I hope this short experience is enough for you to know more about the Go language and allows you to go deeper into the world of the backend development using go as a powerful tool. Don't rush, don't focus on knowing it all, just give it your best and what you are capable of. I understand programming is not an easy feat. Don't panic! Everything will be just fine. 
+
+Please reach me at my email (described at the top of this readme file) at any time of the day.
