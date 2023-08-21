@@ -16,7 +16,7 @@ It asks you to develop a web-backend in Golang. It is a simple CRUD, integrated 
 
 All detais on the final assessment should be found here:
 
-[LINK FINAL PROJECT REPO WILL BE AVAILABLE AT END OF DAY 1]
+:warning:	[LINK FINAL PROJECT REPO WILL BE AVAILABLE AT END OF DAY 1] :warning:	
 
 ### The instructor
 
