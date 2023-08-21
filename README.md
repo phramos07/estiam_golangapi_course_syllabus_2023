@@ -16,7 +16,7 @@ It asks you to develop a web-backend in Golang. It is a simple CRUD, integrated 
 
 All detais on the final assessment should be found here:
 
-[LINK FINAL PROJECT REPO]
+[LINK FINAL PROJECT REPO WILL BE AVAILABLE AT END OF DAY 1]
 
 ### Course Syllabus
 
@@ -63,10 +63,9 @@ On day 2, we will start tackling the final project. We will start by HTTP basics
 
 4 days is a very constrained time to cover some of the topics that are left out from this course. These are the topics that we won't be covering in live classes, but students are encouraged to implement these features on their final project assignment.
 
-* docker and docker-compose for local development. Best practices on deployment. CICD pipelines. Devops tools such as Grafana, Datadog, Rancher, terraform.
-* git
+* docker and docker-compose for local development. We will be using containers, but we're not gonna focus on best practices on deployment, CICD pipelines, and devops tools such as Grafana, Datadog, Rancher, terraform.
 * microservices. Splitting the backend into minor services. Splitting API from database writer service. Use of tools such as Kafka or RabbitMQ
-* GraphQL
+* git
 
 ### What you actually need to follow the course
 
@@ -88,5 +87,7 @@ In order to follow this course, the student will need
 
 _For windows users, you might need to allow for virtualization in your BIOS in order for docker to work_
 
-4. A Github account. The project will be delivered as a **pull request**.
+4. A Github account. The project will be delivered as a **pull request**. 
+
+> git basics: https://www.atlassian.com/git
 
