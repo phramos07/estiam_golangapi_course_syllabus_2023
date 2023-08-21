@@ -8,6 +8,12 @@ Please answer this quick form so I can get to know you better. This will help us
 
 https://forms.gle/f2CMsQtpdvNAapTz9
 
+### Goals
+
+At the end of this course, you'll be able to understand the basics of the Go language, as well as writing a backend server in Golang using go frameworks and libraries. 
+
+The main objective of this course is to learn GOLANG, a static typed imperative multi-purpose language focused on solving problems fastly and efficiently. 
+
 ### Final Project and assessment
 
 The project will be the sole assessment for this course. It will cover all the topics we will learn throughout the course.
