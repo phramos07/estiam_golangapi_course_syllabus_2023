@@ -16,11 +16,15 @@ The main objective of this course is to learn GOLANG, a static typed imperative 
 
 ### Final Project and assessment
 
-The project will be the sole assessment for this course. It will cover all the topics we will learn throughout the course.
+❗ UPDATE (23/08/2023): There will be two assessments in the course.
 
-It asks you to develop a web-backend in Golang. It is a simple CRUD, integrated with PostgreSQL.
+1. 40 Multiple-choice test
 
-All detais on the final assessment should be found here:
+Students will undergo a 40 question-test on Thursday (24/08/2023) during the afternoon turn that covers the basics of the language and API development.
+
+2. Project assignment
+
+The project will cover all the topics we will learn throughout the course. It asks you to develop a web-backend in Golang. It is a simple CRUD, integrated with PostgreSQL. All detais on the final assessment should be found here:
 
 :warning:	[LINK PROJECT ASSIGNMENT](https://github.com/phramos07/estiam_golang_api_course_finalproject) :warning:	
 
